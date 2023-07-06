@@ -8,3 +8,5 @@ spec:
   resources:
     requests:
       storage: 500Mi
+    limits:
+      storage: 600Mi
